@@ -23,7 +23,7 @@ export const NavigationBar = () => (
               Search
             </Nav.Link>
             <Nav.Link className="highlighted_text" href={"/"}>
-              Try Instaread
+              Try Instaread now!
             </Nav.Link>
             <NavDropdown
               className="text_weight"
